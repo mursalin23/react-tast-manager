@@ -1,0 +1,46 @@
+{
+  "tasks": [
+    {
+      "text": "Купить Игорю трусы и футболки",
+      "day": "Когда будут деньги",
+      "reminder": false,
+      "id": 6
+    },
+    {
+      "text": "Купить даше сумку с гарри поттером розовую",
+      "day": "Раньше чем она поедет в Гданск",
+      "reminder": false,
+      "id": 7
+    },
+    {
+      "text": "Купить колоду затмение амири",
+      "day": "",
+      "reminder": false,
+      "id": 8
+    },
+    {
+      "text": "Больше звезд которие падают",
+      "day": "",
+      "reminder": false,
+      "id": 9
+    },
+    {
+      "text": "Метеорити которие падают",
+      "day": "",
+      "reminder": false,
+      "id": 10
+    },
+    {
+      "text": "Git Upload",
+      "day": "Sunday, Morning",
+      "reminder": true,
+      "id": 11
+    },
+    {
+      "text": "Chill",
+      "day": "All day",
+      "reminder": false,
+      "id": 12
+    }
+  ]
+}
